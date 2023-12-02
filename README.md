@@ -53,7 +53,7 @@ docker build -t flask_app .
 ```bash
 docker compose up -d
 ```
-The container can be opened in the browser
+The containers can be opened in the browser
 
 ![Screenshot](/screenshot/2.png)
 ![Screenshot](/screenshot/3.png)
