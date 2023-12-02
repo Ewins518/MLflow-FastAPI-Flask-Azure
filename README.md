@@ -73,5 +73,9 @@ Notice here also the link provide by Azure
 
 10. Deploy the model as a service using Azure ML SDK and Mlflow
 
+Navigate to *AzureML_SDK_Mlflow* folder and run *Deploy local and ACI.ipynb*
+
+Don't forget to create a *Azure Machine learning* resource on Azure portal.
+
 ![Screenshot](/screenshot/7.png)
 ![Screenshot](/screenshot/8.png)
