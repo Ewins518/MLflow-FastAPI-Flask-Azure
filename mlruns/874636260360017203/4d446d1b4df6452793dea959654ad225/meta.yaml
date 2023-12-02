@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/874636260360017203/4d446d1b4df6452793dea959654ad225/artifacts
+end_time: 1701078443156
+entry_point_name: ''
+experiment_id: '874636260360017203'
+lifecycle_stage: active
+run_id: 4d446d1b4df6452793dea959654ad225
+run_name: flawless-lynx-472
+run_uuid: 4d446d1b4df6452793dea959654ad225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701078442998
+status: 4
+tags: []
+user_id: ewins

@@ -1,0 +1,6 @@
+artifact_location: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/874636260360017203
+creation_time: 1701078442680
+experiment_id: '874636260360017203'
+last_update_time: 1701078442680
+lifecycle_stage: active
+name: scikit_learn_experiment

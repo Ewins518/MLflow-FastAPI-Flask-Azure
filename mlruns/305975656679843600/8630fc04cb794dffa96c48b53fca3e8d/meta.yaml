@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/305975656679843600/8630fc04cb794dffa96c48b53fca3e8d/artifacts
+end_time: 1701079041043
+entry_point_name: ''
+experiment_id: '305975656679843600'
+lifecycle_stage: active
+run_id: 8630fc04cb794dffa96c48b53fca3e8d
+run_name: orderly-crow-496
+run_uuid: 8630fc04cb794dffa96c48b53fca3e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701079038975
+status: 3
+tags: []
+user_id: ewins

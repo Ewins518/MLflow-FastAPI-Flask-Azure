@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/874636260360017203/3f2c123572c74ba0aef69fc488553126/artifacts
+end_time: 1701078497272
+entry_point_name: ''
+experiment_id: '874636260360017203'
+lifecycle_stage: active
+run_id: 3f2c123572c74ba0aef69fc488553126
+run_name: glamorous-stag-987
+run_uuid: 3f2c123572c74ba0aef69fc488553126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701078494121
+status: 3
+tags: []
+user_id: ewins

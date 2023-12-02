@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/305975656679843600/36af19849cf14cd29eef7dc5a868bfe9/artifacts
+end_time: 1701079035022
+entry_point_name: ''
+experiment_id: '305975656679843600'
+lifecycle_stage: active
+run_id: 36af19849cf14cd29eef7dc5a868bfe9
+run_name: rumbling-cub-377
+run_uuid: 36af19849cf14cd29eef7dc5a868bfe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701079032857
+status: 3
+tags: []
+user_id: ewins

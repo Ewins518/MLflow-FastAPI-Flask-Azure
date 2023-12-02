@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/305975656679843600/d4fc196400544e1f897c3bbdc9c3aee7/artifacts
+end_time: 1701254564572
+entry_point_name: ''
+experiment_id: '305975656679843600'
+lifecycle_stage: active
+run_id: d4fc196400544e1f897c3bbdc9c3aee7
+run_name: learned-fowl-816
+run_uuid: d4fc196400544e1f897c3bbdc9c3aee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701254561089
+status: 3
+tags: []
+user_id: ewins

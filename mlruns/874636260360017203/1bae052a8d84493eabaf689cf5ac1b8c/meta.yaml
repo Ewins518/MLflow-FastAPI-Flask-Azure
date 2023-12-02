@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/874636260360017203/1bae052a8d84493eabaf689cf5ac1b8c/artifacts
+end_time: 1701078563678
+entry_point_name: ''
+experiment_id: '874636260360017203'
+lifecycle_stage: active
+run_id: 1bae052a8d84493eabaf689cf5ac1b8c
+run_name: gifted-squid-670
+run_uuid: 1bae052a8d84493eabaf689cf5ac1b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701078561756
+status: 3
+tags: []
+user_id: ewins

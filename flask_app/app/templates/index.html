@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>Student mental prediction</title>
+      <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+   </head>
+
+   <body>
+      <div id="wrap">
+      <h1>Predict student mental</h1>
+
+      <section id="furn" class="frame2">
+
+         <div class="login">
+
+            <form action="{{ url_for('predict')}}"method="post">
+            <table class="entryForm">
+
+            <tr>
+            <th>Gender : </th>
+            <td>
+               <select id="gender" name="gender">
+               <option value="0">Female</option>
+               <option value="1">male</option>
+            </select>
+            </td>
+            </tr>
+
+            <tr>
+            <th>Age</th>
+            <td><input type="text" name="age" placeholder="Your age" required="required" />
+            </tr>
+
+            <tr>
+               <th>Marital : </th>
+               <td>
+                  <select id="marital" name="marital">
+                  <option value="0">No</option>
+                  <option value="1">Yes</option>
+               </select>
+               </td>
+               </tr>
+
+               <tr>
+                  <th>Anxiety : </th>
+                  <td>
+                     <select id="anxiety" name="anxiety">
+                     <option value="0">No</option>
+                     <option value="1">Yes</option>
+                  </select>
+                  </td>
+                  </tr>
+
+                  <tr>
+                     <th>Panic : </th>
+                     <td>
+                        <select id="panic" name="panic">
+                        <option value="0">No</option>
+                        <option value="1">Yes</option>
+                     </select>
+                     </td>
+                     </tr>
+
+                     <tr>
+                        <th>Specialist Treatement : </th>
+                        <td>
+                           <select id="specialist" name="specialist">
+                           <option value="0">No</option>
+                           <option value="1">Yes</option>
+                        </select>
+                        </td>
+                        </tr>
+            <tr>
+            <th>Course</th>
+            <td>
+               <select id="course" name="course">
+               <option value="15">Engineering</option>
+               <option value="22">Islamic Education</option>
+               <option value="12">Diploma Nursing</option>
+               <option value="27">Laws</option>
+               <option value="31">Mathemathics</option>
+               <option value="32">Pendidikan Islam</option>
+               <option value="4">Banking Studies</option>
+               <option value="18">Human Resources</option>
+               <option value="30">Marine science</option>
+               <option value="33">Psychology</option>
+               <option value="23">KENMS</option>
+               <option value="6">Biomedical science</option>
+               <option value="10">Communication</option>
+               <option value="7">Biotechnology</option>
+
+            </select>
+            </td>
+            </tr>
+
+            <tr>
+               <th>Year</th>
+               <td>
+                  <select id="year" name="year">
+                  <option value="1">Year 1</option>
+                  <option value="2">Year 2</option>
+                  <option value="3">Year 3</option>
+                  <option value="4">Year 4</option>
+
+               </select>
+               </td>              
+             </tr>
+
+            <tr>
+               <th>CGPA</th>
+               <td>
+                  <select id="cgpa" name="cgpa">
+                  <option value="4">3.50 - 4.00</option>
+                  <option value="3">3.00 - 3.49</option>
+                  <option value="2">2.50 - 2.99</option>
+                  <option value="1">2.00 - 2.49</option>
+                  <option value="0">0 - 1.99</option>
+               </select>
+               </td>       
+            </tr>
+   
+            </table>
+            <div class="btns">
+            <button type="reset" class="btn btn-clear">Reset</button>
+            <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+            </div>
+            </form>
+
+         </div>
+
+
+      </section>
+
+
+      <br>
+      <br>
+      {{prediction_text}}
+      </div>
+
+   </body>
+</html>

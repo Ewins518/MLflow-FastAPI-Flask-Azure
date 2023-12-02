@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ewins/Documents/QFM2/MLOps/Devoir/mlruns/305975656679843600/334e46c83c7a45c98b5b5ed8f9092d7d/artifacts
+end_time: 1701254586122
+entry_point_name: ''
+experiment_id: '305975656679843600'
+lifecycle_stage: active
+run_id: 334e46c83c7a45c98b5b5ed8f9092d7d
+run_name: angry-rook-810
+run_uuid: 334e46c83c7a45c98b5b5ed8f9092d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701254583912
+status: 3
+tags: []
+user_id: ewins
