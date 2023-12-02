@@ -62,6 +62,11 @@ The containers can be opened in the browser
 Notice that the flask App use FastAPI app for inferences. In other word, the both containers communicated with each other .
 
 8. Now navigate to heroku_app folder to deploy the API on Heroku.
+
+![Screenshot](/screenshot/9.png)
+
+Open your app
+
 ![Screenshot](/screenshot/5.png)
 
 You can the heroku link in the picture.
