@@ -71,12 +71,13 @@ Open your app
 
 You can the heroku link in the picture.
 
-9. Deploy the containerized API using Azure Container Instance
+## Deploy the containerized API using Azure Container Instance
+    
 ![Screenshot](/screenshot/6.png)
 
 Notice here also the link provide by Azure
 
-10. Deploy the model as a service using Azure ML SDK and Mlflow
+## Deploy the model as a service using Azure ML SDK and Mlflow
 
 Navigate to *AzureML_SDK_Mlflow* folder and run *Deploy local and ACI.ipynb*
 
